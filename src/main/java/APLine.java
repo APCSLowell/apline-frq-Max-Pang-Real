@@ -1,6 +1,6 @@
 public class APLine
 {
-  private int myA, myB, myC;
+  private double myA, myB, myC;
   public APLine(int a, int b, int c){
     myA = a;
     myB = b;
